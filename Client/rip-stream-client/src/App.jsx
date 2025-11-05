@@ -14,7 +14,7 @@ import StreamMovie from './components/stream/StreamMovie';
 
 import {Route, Routes, useNavigate} from 'react-router-dom'
 
-function App() {import axiosClient from './api/axiosConfig';
+function App() {
 
   const navigate = useNavigate();
   const { auth, setAuth } = useAuth();
