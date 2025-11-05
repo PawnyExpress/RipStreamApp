@@ -10,9 +10,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/PawnyExpress/RipStreamApp/Server/RipStreamServer/database"
-	"github.com/PawnyExpress/RipStreamApp/Server/RipStreamServer/models"
-	"github.com/PawnyExpress/RipStreamApp/Server/RipStreamServer/utils"
+	"github.com/PawnyExpress/RipStreamApp/Server/RipStreamApp/database"
+	"github.com/PawnyExpress/RipStreamApp/Server/RipStreamApp/models"
+	"github.com/PawnyExpress/RipStreamApp/Server/RipStreamApp/utils"
 	"github.com/gin-gonic/gin"
 	"github.com/go-playground/validator/v10"
 	"github.com/joho/godotenv"

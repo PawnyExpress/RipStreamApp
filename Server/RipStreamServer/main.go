@@ -7,6 +7,9 @@ import (
 	"os"
 	"strings"
 	"time"
+
+	"github.com/PawnyExpress/RipStreamApp/Server/RipStreamApp/database"
+	"github.com/PawnyExpress/RipStreamApp/Server/RipStreamApp/routes"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"

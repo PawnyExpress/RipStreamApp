@@ -1,7 +1,7 @@
 package routes
 
 import (
-	controller "github.com/PawnyExpress/RipStreamApp/Server/RipStreamServer/controllers"
+	controller "github.com/PawnyExpress/RipStreamApp/Server/RipStreamApp/controllers"
 	"github.com/gin-gonic/gin"
 	"go.mongodb.org/mongo-driver/v2/mongo"
 )

@@ -3,7 +3,7 @@ package middleware
 import (
 	"net/http"
 
-	"github.com/PawnyExpress/RipStreamApp/Server/RipStreamServer/utils"
+	"github.com/PawnyExpress/RipStreamApp/Server/RipStreamApp/utils"
 	"github.com/gin-gonic/gin"
 )
 

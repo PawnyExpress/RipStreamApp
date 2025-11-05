@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/PawnyExpress/RipStreamApp/Server/RipStreamServer/database"
+	"github.com/PawnyExpress/RipStreamApp/Server/RipStreamApp/database"
 	"github.com/gin-gonic/gin"
 	jwt "github.com/golang-jwt/jwt/v5"
 	"go.mongodb.org/mongo-driver/v2/bson"
